@@ -2,4 +2,6 @@ The paper, the notebook to reproduce the results and figures (streamlined so mis
 
 That data is zipped in the release and should be placed in the depth_migration_data folder.
 
-https://github.com/David-31415/maia-depth-migration/blob/main/depth_migration_data/ex_knight_fork_2x2.png
+
+![2x2 surgery](https://raw.githubusercontent.com/maia-depth-migration/blob/main/depth_migration_data/ex_knight_fork_2x2.png)
+
