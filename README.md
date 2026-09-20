@@ -3,6 +3,6 @@
 ### That data is zipped in the release and should be placed in the depth_migration_data folder.
 
 
-![2x2 surgery figure](depth_migration_data/knight_head_atlas, (L7H12).png)
+![2x2 surgery figure](depth_migration_data/"knight_head_atlas, (L7H12)".png)
 
 
