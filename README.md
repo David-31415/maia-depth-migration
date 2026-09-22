@@ -1,3 +1,5 @@
+## [LINK TO PAPER](https://arxiv.org/abs/2609.23917)
+
 ## Maia Depth Migration
 
 ### The paper, the notebook to reproduce the results and figures, relevant helper modules, and all the data from the sweeps and move mining from LiChess.org.
@@ -12,4 +14,3 @@
 
 
 
-## ![LINK TO PAPER](https://arxiv.org/abs/2609.23917)
