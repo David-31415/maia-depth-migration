@@ -10,3 +10,6 @@
 ![2x2 surgery figure](depth_migration_data/knight_head_atlas.png)
 
 
+
+
+## ![LINK TO PAPER](https://arxiv.org/abs/2609.23917)
