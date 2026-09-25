@@ -1,4 +1,4 @@
-## Maia Depth Migration
+## Increasing Skill Level Recruits Deeper Attention Layers in a Frozen Chess Transformer
 
 ### The paper, the notebook to reproduce the results and figures, relevant helper modules, and all the data from the sweeps and move mining from Lichess.org.
 
