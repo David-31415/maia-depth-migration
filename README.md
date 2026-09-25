@@ -1,5 +1,3 @@
-## [LINK TO PAPER](https://arxiv.org/abs/2609.23917)
-
 ## Maia Depth Migration
 
 ### The paper, the notebook to reproduce the results and figures, relevant helper modules, and all the data from the sweeps and move mining from Lichess.org.
@@ -11,6 +9,9 @@
 
 ![2x2 surgery figure](depth_migration_data/knight_head_atlas.png)
 
+## [LINK TO PAPER](https://arxiv.org/abs/2609.23917)
+
+## [LINK TO BLOG POST](https://www.lesswrong.com/posts/HzeuyQvqN4nHHvaXc/increasing-skill-level-recruits-deeper-attention-layers-in-a)
 
 
 
