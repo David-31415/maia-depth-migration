@@ -11,7 +11,4 @@
 
 ## [LINK TO PAPER](https://arxiv.org/abs/2609.23917)
 
-## [LINK TO BLOG POST](https://www.lesswrong.com/posts/HzeuyQvqN4nHHvaXc/increasing-skill-level-recruits-deeper-attention-layers-in-a)
-
-
-
+## [LINK TO BLOG POST](https://www.lesswrong.com/posts/3haqQKsi8yHkuskQX/how-does-changing-the-elo-of-a-chess-transformer-affect-its)
